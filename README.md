@@ -70,3 +70,7 @@ Replace `<server_address>` with the IP address or hostname of your Nagios XI ser
 ---
 
 By following these installation methods, you can set up Nagios XI on supported Linux distributions with ease. Make sure to refer to the official Nagios documentation for detailed configuration and usage instructions after installation.
+
+```
+https://support.nagios.com/kb/article/1-how-to-install-nagios-xi-917.html
+```
